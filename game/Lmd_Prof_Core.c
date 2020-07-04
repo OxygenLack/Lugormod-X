@@ -24,7 +24,7 @@ int AccProfessionDataDataIndex = -1;
 //This is multiplied by (level) X (the next level)
 #define LEVEL_COST 25 // 
 
-#define MAX_LEVEL  120 // 40 ->  120
+#define MAX_LEVEL  200 // 40 ->  120
 #define MASTER_LEVEL 40 //Level after unlocks Jedi skills for Sith and Sith skills for Jedi
 
 extern vmCvar_t lmd_accLevelDiscount_time;
