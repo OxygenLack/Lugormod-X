@@ -73,9 +73,10 @@
 - Lugor       - for creating early versions of the mod,
 - RoboPhred   - for developing the mod for many years,
 - Ufo         - for small scale development and producing a Linux build.
+- iomatix     - for this amazing improved mod
 
 *Can be compiled using Visual Studio 2013.*
-Linux users may use the makefile inside the game folder.
+Linux users can use the "jampgamei386.so"inside the game folder or use the makefile inside the game folder.
 
 Licensed under GPL version 3 or later.
 
